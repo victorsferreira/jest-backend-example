@@ -1,2 +1,5 @@
-npm i
-npm test
+Run in terminal
+
+$ npm i
+
+$ npm test
